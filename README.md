@@ -1,1 +1,1 @@
-# School-Management-System
+# model.School-Management-System
